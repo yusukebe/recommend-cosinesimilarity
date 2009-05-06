@@ -1,0 +1,16 @@
+abstract: ~
+author: Yusuke Wada <yusuke at kamawada.com>
+build_requires: 
+  Test::More: 0
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: libRecommend-CosineSimilarity
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Mouse: 0
+  MouseX::AttributeHelpers: 0
+version: 0.01
